@@ -1,0 +1,15 @@
+# Split related configurations
+keybind = ctrl+n>i=new_split:up
+keybind = ctrl+n>k=new_split:down
+keybind = ctrl+n>j=new_split:left
+keybind = ctrl+n>l=new_split:right
+
+keybind = ctrl+i=goto_split:up
+keybind = ctrl+k=goto_split:down
+keybind = ctrl+j=goto_split:left
+keybind = ctrl+l=goto_split:right
+
+keybind = ctrl+n>e=equalize_splits
+
+# Close surface
+keybind = ctrl+q=close_surface
