@@ -10,10 +10,10 @@ background-opacity = 0.95
 background-blur = true
 
 # Window Settings
-title = "To be or not to be ?"
+title = "Harenasoa Tsara Loatra"
 window-decoration = none
-window-width = 180
-window-height = 45
+window-width = 210
+window-height = 50
 window-padding-x = 10
 window-padding-y = 5
 window-padding-balance = true
