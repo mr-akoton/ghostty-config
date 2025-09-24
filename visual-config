@@ -6,8 +6,8 @@ bold-is-bright = true
 
 # Theme Settings
 theme = Ayu Mirage
- background-opacity = 0.95
- background-blur = true
+#background-opacity = 0.95
+#background-blur = true
 
 # Window Settings
 title = "Harenasoa Tsara Loatra"
