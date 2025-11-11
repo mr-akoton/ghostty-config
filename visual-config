@@ -5,12 +5,10 @@ font-size = 10
 bold-is-bright = true
 
 # Theme Settings
-theme = Ayu Mirage
-#background-opacity = 0.95
-#background-blur = true
+theme = Gruvbox Dark
 
 # Window Settings
-title = "To be or not to be"
+title = "Harenasoa Tsara Loatra"
 window-decoration = none
 window-width = 220
 window-height = 50
@@ -18,9 +16,4 @@ window-padding-x = 10
 window-padding-y = 5
 window-padding-balance = true
 gtk-titlebar-hide-when-maximized = true
-
-# Shaders
-custom-shader = ~/.config/ghostty/shaders/cursor_blaze.glsl
-custom-shader = ~/.config/ghostty/shaders/tft.glsl
-custom-shader = ~/.config/ghostty/shaders/bloom.glsl
-custom-shader = ~/.config/ghostty/shaders/bettercrt.glsl
+mouse-hide-while-typing = true
