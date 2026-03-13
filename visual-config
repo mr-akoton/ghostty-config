@@ -1,15 +1,15 @@
 # Font Settings
-font-family = "RecMonoDuotone Nerd Font Mono"
+font-family = "FantasqueSansM Nerd Font Mono"
 font-feature = calt, ss01
-font-size = 10
+font-size = 11
 bold-is-bright = true
 
 # Theme Settings
-theme = Gruvbox Dark
+theme = Catppuccin Mocha
+background = 181926 
 
 # Window Settings
 title = "Harenasoa Tsara Loatra"
-window-decoration = none
 window-width = 220
 window-height = 50
 window-padding-x = 10

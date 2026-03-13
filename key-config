@@ -1,8 +1,6 @@
 # Split related configurations
-keybind = ctrl+s>i=new_split:up
-keybind = ctrl+sk=new_split:down
-keybind = ctrl+s>j=new_split:left
-keybind = ctrl+s>l=new_split:right
+keybind = ctrl+shift+_=new_split:down
+keybind = ctrl+shift+|=new_split:right
 
 keybind = ctrl+i=goto_split:up
 keybind = ctrl+k=goto_split:down
